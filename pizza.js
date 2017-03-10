@@ -131,4 +131,3 @@ let currentOrders = {
   }
 }
 
-console.log('currentOrders: ', currentOrders);
