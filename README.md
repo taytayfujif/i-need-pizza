@@ -2,13 +2,13 @@
 
 #Story
 
-A factory deep, deep in the jungles of Hawaii contains the prototypes for the strongest, fastest, and smartest robots in the entire world! And you, as a Junior DevLeague Developer, are one of the only people that can understand the language of these robots!
+A local pizzeria's ordering system has just went down and are in need of some immediate help. There ordering system only accepts orders in the form of javascript objects. They have asked us to fix their orders manually until they can get their system back up and running. Lets use our rock star knowledge to help their customers get the pizza.
 
-Your Mission
+#Your Mission
 
-Use your knowledge of Javascript to create an object prototype of these robots and use the object constructor function to clone as many awesome robots as possible!
+You will be using your coding knowledge to transform these orders into javascript objects and make any changes to an order on the fly. 
 
-Requirements
+#Requirements
 
 Create an object prototype called BestRobotEver using an object constructor function
 
