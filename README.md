@@ -12,7 +12,7 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused.
 
-["order11821": "Customer Name": "James Franko", "Address": "2155 E Lake Dr. Seattle, WA, 11310", "Pizza: "crust": "thin", "Toppings": "peperoni, ham, sausage, olives", "Sauce": "robust marinara", "Sides": "Breadsticks", "Sauces": "Ranch"]
+[order11821: Customer Name: James Franko, Address: 2155 E Lake Dr. Seattle, WA, 11310, Pizza: crust: thin, Toppings: peperoni, ham, sausage, olives, Sauce: robust marinara, Sides: Breadsticks, Sauces: Ranch]
 
 Set the parameters as idNumber, name, intelligenceLevel, superPower, speed, battlePhrase.
 Create the key values of the object prototype using this and set their values to the parameter values
