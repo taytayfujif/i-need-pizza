@@ -18,8 +18,8 @@ You will be using your coding knowledge to transform these orders into javascrip
 
   - [order17844: Customer Name: Selena Gomez, Address: 9435 Haine St City: San Diego, State: CA, Zip Code: 94333, Pizza: crust: hand           tossed, Pizza Sauce: bbq, Cheese: light, Toppings: Veggies: pinapple, jalapeno, spinach, Meat: ham, Sides: garlic knots, Sauces: N/A,     Special Instructions: please make crust extra crunchy, Payment Type: member reward points, Store id: 586]
 
-Set the parameters as idNumber, name, intelligenceLevel, superPower, speed, battlePhrase.
-Create the key values of the object prototype using this and set their values to the parameter values
+2. Great job turning the orders into objects, however the client has determined that processing one order at a time is too low and need us to speed us proccessing time. Your new task is to condense the orders into a single object. This will help the client get the orders out to the appropriate stores faster and speed up their delivery time. Create a new variable called currentOrders that will be equal to once object containing all the current orders. Hint: Nesting might be your best friend.
+
 
 this.id = id;
 Create an object prototype for three types of robots and pass information, to make them the best robots ever, as the parameters.
