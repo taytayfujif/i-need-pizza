@@ -10,8 +10,7 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 #Requirements
 
-1. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. 
-- Hint: Remember objects can accept many different data types as its value.
+1. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. * Hint: Remember objects can accept many different data types as its value.
 
   - [order11821: Customer Name: James Franko, Address: 2155 E Lake Dr City: Seattle, State: WA, Zip Code: 11310, Pizza: crust: thin, Pizza    Sauce: robust marinara, Cheese: regular, Toppings: Veggies: olives, green peppers, Meat: pepperoni, ham, sausage, Side Items:              Breadsticks, bbq wings 6 piece, Sauces: Ranch, Special Instructions: please cut pizza into squares, Payment Type: cash, Store Id: 112]
 
