@@ -10,7 +10,7 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 #Requirements
 
-1. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint:** Remember objects can accept many different data types as its value.
+I. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint:** Remember objects can accept many different data types as its value.
   
 #### order11821
 ```
@@ -53,33 +53,17 @@ Special Instructions: call 815 at the gate
 Payment Type: credit card
 Store Id: 382
 ```
-####order17844
+
+II. Great job so far, however the client has told us processing one order at a time is too slow. They have asked us to figure out how to speed this process up. Your next task is to condense all current orders into one object. Create a new variable called currentOrders that will contain all of the current orders. **Hint:** What is nesting?
+
+III. Almost done, but we just received some last seconds changes to our orders. Make the changes below to the currentOrders object so the customer gets the right order. **Hint:** How can you access/change data in an object
+
+#### Changes to order 11821
 ```
-Customer Name: Selena Gomez                                                        
-Address: 9435 Haine St
-City: San Diego
-State: CA
-Zip Code: 94333
-Pizza:
-  Crust: hand tossed
-  Pizza Sauce: bbq 
-  Cheese: light
-  Toppings:
-    Veggies: pinapple, jalapeno, spinach
-    Meats: ham
-Side Items: garlic knots
-Sauces: N/A
-Special Instructions: please make crust extra crunchy
-Payment Type: member reward points
-Store Id: 586
+Pizza Sauce: classic marinara
+add spinach to Veggies
+remove sausage from Meat
 ```
-
-
-2. Create an object prototype for three types of robots and pass information, to make them the best robots ever, as the parameters.
-    + `var strongestRobot = new BestRobotEver(1, "Super Strong!", 100000000, "Can cut cake with a karate kick!", 100000, "I AM AWESOME");`
-
-3. Create a function called **printInformation**, set the parameter as the created robot variable, and return the information of the robot.
-
 Resources
 
-Object Prototypes - http://www.w3schools.com/js/js_object_prototypes.asp
+Objects - https://www.w3schools.com/js/js_objects.asp
