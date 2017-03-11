@@ -15,7 +15,7 @@ You will be using your coding knowledge to transform these orders into javascrip
   - **[order11821:** **Customer Name:** James Franko, **Address:** 2155 E Lake Dr **City:** Seattle, **State:** WA, **Zip Code:** 11310, **Pizza:** **crust:** thin, **Pizza Sauce:** robust marinara, **Cheese:** regular, **Toppings:** **Veggies:** olives, green peppers, **Meat:** pepperoni, ham, sausage, **Side Items:** Breadsticks, bbq wings 6 piece, **Sauces:** Ranch, **Special Instructions:** please cut pizza into squares, **Payment Type:** cash, **Store Id:** 112]
   
   #### order11821
-  **Customer Name**: James Franko --hit
+  **Customer Name**: James Franko
   **Address**: 2155 E Lake Dr
 
   - **[order11372:** **Customer Name:** Justin Bieber, **Address:** 1801 W Rodeo Dr **City:** Beverly Hills, **State:** CA, **Zip Code:** 91833, **Pizza:** **crust:** stuffed crust, **Pizza Sauce** creamy garlic alfredo, **Cheese:** double, **Toppings:** **Veggies:** onion, anchovies, mushrooms, **Meat:** chicken, bacon, **Sides:** double fudge brownie dessert, **Sauces:** bbq, garlic sauce, **Special Instructions:** please call 815 at the gate, **Payment Type:** credit card, Store Id: 382]
