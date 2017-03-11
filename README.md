@@ -22,7 +22,8 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 
 3. Alright were so close but now we just got some last second changes that need to be applied to the current orders. Apply the changes below to the currentOrders object. Hint: Think of you can access/change values of an object.
-  -order11821 changes:  Pizza Sauce: classic marinara,  Veggies: add banana peppers, Meat: remove sausage, Cheese: feta
+
+  - order11821 changes:  Pizza Sauce: classic marinara,  Veggies: add banana peppers, Meat: remove sausage, Cheese: feta
 
 Call the function printInformation as many times as you can before time runs out!
 
