@@ -73,8 +73,7 @@ Special Instructions: please make crust extra crunchy
 Payment Type: member reward points
 Store Id: 586
 ```
-2. Create the key values of the object prototype using **this** and set their values to the parameter values
-    + `this.id = id;`
+
 
 3. Create an object prototype for three types of robots and pass information, to make them the best robots ever, as the parameters.
     + `var strongestRobot = new BestRobotEver(1, "Super Strong!", 100000000, "Can cut cake with a karate kick!", 100000, "I AM AWESOME");`
