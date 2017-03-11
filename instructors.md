@@ -21,7 +21,7 @@ At the completion of this exercise, students should understand:
 Steps to create the project
 - Fork and clone project
 - All work will be done in pizza.js
-- Refer to the completed pizza.js file for expected outcome for students
+- Refer to the completed pizza.js file for desired outcome for students
 
 ###Resources
 List of resources where students can research on their own.
