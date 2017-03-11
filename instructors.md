@@ -3,27 +3,26 @@ In this project we will have the students explore the basic concepts of javascri
 ###Objective
 
 ###Prerequisites
-List of topics/concepts/projects/exercises to complete prior to doing this project. Ex:
 In order to complete this project students must have the following:
-- Basic understanding of HTML structures.
-- Basic understanding of JavaScript and DOM
+- Basic understanding of javascript objects
+- Accessing/Modifying data in an object
+
 ###Requirements
-List of requirements needed to complete the project. Ex:
-To complete this project you will need the following: - Sublime Text
+To complete this project you will need the following:
+- Sublime Text
+
 ###Desired Outcome
-List of outcomes
-Ex:
-At the completion of this exercise, students should understand: - Modifying HTML Elements through the DOM
-- JavaScript Event Handling
-- The `alert()` browser function
+At the completion of this exercise, students should understand:
+- Javascript objects
+- Nested objects
+- Accessing/Modifying data within nested objects through dot notation and bracket notation
+
 ###Your Challenge
 Steps to create the project
-Ex:
-1. Create an `index.html` page.
-2. Create a `js` directory and an `app.js` file in that directory
-3. Create a reference to your `app.js` file from your `index.html` file.
-4. Create your `index.html` layout along with your `<button>` or `<a>` tag.
-5. Write your event handler **function** in your `app.js` file to __listen__ for the **onclick** event and use the `alert()` method to notify the user they have clicked on the button.
+- Fork and clone project
+- All work will be done in pizza.js
+- Refer to the completed pizza.js file for expected outcome for students
+
 ###Resources
 List of resources where students can research on their own.
-http://www.w3schools.com/jsref/event_onclick.asp
+Objects - https://www.w3schools.com/js/js_objects.asp
