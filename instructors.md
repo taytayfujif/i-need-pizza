@@ -1,9 +1,7 @@
 ###I-Need-Pizza
 In this project we will have the students explore the basic concepts of javascript objects.
 ###Objective
-Short objective of the project
-Ex:
-To create a simple working application using, **HTML Elements**, **JavaScript Logic** and **Events** to create a button on our web page and when the user clicks on that button, they will receive a visual indicator that they clicked the button.
+
 ###Prerequisites
 List of topics/concepts/projects/exercises to complete prior to doing this project. Ex:
 In order to complete this project students must have the following:
