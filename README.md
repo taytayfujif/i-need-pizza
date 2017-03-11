@@ -70,5 +70,5 @@ add a new key called "orderTime", assign it a value of "20 minutes"
 
 Resources
 
-Objects - https://www.w3schools.com/js/js_objects.asp
-Object Properties - https://www.w3schools.com/js/js_properties.asp
+- Objects - https://www.w3schools.com/js/js_objects.asp
+- Object Properties - https://www.w3schools.com/js/js_properties.asp
