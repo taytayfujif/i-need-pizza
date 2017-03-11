@@ -42,29 +42,6 @@ let order11372 = {
   "Store Id": 382
 }
 
-let order17844 = {
-  "Customer Name": "selena Gomez",
-  "Address": "9435 Haine St",
-  "City": "San Diego",
-  "State": "CA",
-  "Zip Code": "94333",
-  "Pizza": {
-    "Crust": "hand tossed",
-    "Pizza Sauce": "bbq",
-    "Cheese": "light",
-    "Toppings": {
-      "Veggies": ["pinapple", "jalapeno", "spinach"],
-      "Meat": "ham",
-    }
-  },
-  "Sides": "garlic knots",
-  "Sauces": "N/A",
-  "Special Instructions": "Please make crust extra crunchy",
-  "Payment Type": "member reward points",
-  "Store Id": 586
-}
-
-
 let currentOrders = {
   "order11821": {
     "Customer Name": "James Franko",
@@ -107,27 +84,14 @@ let currentOrders = {
     "Special Instructions": "Please call 815 at the gate",
     "Payment Type": "credit card",
     "Store Id": 382
-  },
-  "order17844": {
-    "Customer Name": "selena Gomez",
-    "Address": "9435 Haine St",
-    "City": "San Diego",
-    "State": "CA",
-    "Zip Code": "94333",
-    "Pizza": {
-      "Crust": "hand tossed",
-      "Pizza Sauce": "bbq",
-      "Cheese": "light",
-      "Toppings": {
-        "Veggies": ["pinapple", "jalapeno", "spinach"],
-        "Meat": "ham",
-      }
-    },
-    "Sides": "garlic knots",
-    "Sauces": "N/A",
-    "Special Instructions": "Please make crust extra crunchy",
-    "Payment Type": "member reward points",
-    "Store Id": 586
   }
 }
 
+// changes to order 11821
+currentOrders.order11821.Pizza["Pizza Sauce"] = "classic marinara";
+currentOrders.order11821.Pizza["Toppings"].Veggies = ["onion", "anchovies", "mushrooms", "Spinach"];
+currentOrders.order11821.Pizza["Toppings"].Meat = ["pepperoni", "ham"];
+
+
+
+function sendOrders()
