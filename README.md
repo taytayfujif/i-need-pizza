@@ -14,9 +14,9 @@ You will be using your coding knowledge to transform these orders into javascrip
 
   - **[order11821:** **Customer Name:** James Franko, **Address:** 2155 E Lake Dr **City:** Seattle, **State:** WA, **Zip Code:** 11310, **Pizza:** **crust:** thin, **Pizza Sauce:** robust marinara, **Cheese:** regular, **Toppings:** **Veggies:** olives, green peppers, **Meat:** pepperoni, ham, sausage, **Side Items:** Breadsticks, bbq wings 6 piece, **Sauces:** Ranch, **Special Instructions:** please cut pizza into squares, **Payment Type:** cash, **Store Id:** 112]
   
-  #### order11821
+  #### order11821                                       ####11372
 ```
-Customer Name: James Franko
+Customer Name: James Franko                           Customer Name: Justin Bieber                                
 Address: 2155 E Lake Dr
 City: Seattle
 State: WA
