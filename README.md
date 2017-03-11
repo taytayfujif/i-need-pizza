@@ -12,7 +12,7 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 1. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint:** Remember objects can accept many different data types as its value.
   
-  #### order11821
+#### order11821
 ```
 Customer Name: James Franko                                                         
 Address: 2155 E Lake Dr
