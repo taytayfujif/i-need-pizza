@@ -10,3 +10,9 @@
 * Create a new variable named currentOrders
 * currentOrders should be single object containing both orders from above
 */
+
+/*
+* Make the changes to the currentOrders object based on the ReadMe
+* Run your file with node pizza.js
+* Console.log(currentOrders) to verify changes have been made
+*/
