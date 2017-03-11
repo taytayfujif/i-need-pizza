@@ -16,16 +16,16 @@ You will be using your coding knowledge to transform these orders into javascrip
 
   - **[order11372:** **Customer Name:** Justin Bieber, **Address:** 1801 W Rodeo Dr **City:** Beverly Hills, **State:** CA, **Zip Code:** 91833, **Pizza:** **crust:** stuffed crust, **Pizza Sauce** creamy garlic alfredo, **Cheese:** double, **Toppings:** **Veggies:** onion, anchovies, mushrooms, **Meat:** chicken, bacon, **Sides:** double fudge brownie dessert, **Sauces:** bbq, garlic sauce, **Special Instructions:** please call 815 at the gate, **Payment Type:** credit card, Store Id: 382]
 
-  - [order17844: Customer Name: Selena Gomez, Address: 9435 Haine St City: San Diego, State: CA, Zip Code: 94333, Pizza: crust: hand           tossed, Pizza Sauce: bbq, Cheese: light, Toppings: Veggies: pinapple, jalapeno, spinach, Meat: ham, Sides: garlic knots, Sauces: N/A,     Special Instructions: please make crust extra crunchy, Payment Type: member reward points, Store id: 586]
+  - **[order17844:** **Customer Name:** Selena Gomez, **Address:** 9435 Haine St **City:** San Diego, **State:** CA, **Zip Code:** 94333, **Pizza:** **crust:** hand tossed, **Pizza Sauce:** bbq, **Cheese:** light, **Toppings:** **Veggies:** pinapple, jalapeno, spinach, **Meat:** ham, **Sides:** garlic knots, **Sauces:** N/A, **Special Instructions:** please make crust extra crunchy, **Payment Type:** member reward points, **Store id:** 586]
 
 2. Great job turning the orders into objects, however the client has determined that processing one order at a time is too slow and need to speed up proccessing time. Your new task is to condense the orders into a single object. This will help the client get the orders out to the appropriate stores faster and speed up their delivery time. Create a new variable called currentOrders that will be equal to one object containing all the current orders. 
-- Hint: Nesting might be your best friend.
+- **Hint:** Nesting might be your best friend.
 
 
 3. Alright were so close but now we just got some last second changes that need to be applied to the current orders. Apply the changes below to the currentOrders object. 
-- Hint: Think of you can access/change values of an object.
+- **Hint:** Think of you can access/change values of an object.
 
-  - order11821 changes:  
+  - **order11821 changes:**  
     Pizza Sauce: classic marinara,  
      Veggies: add banana peppers,
      Meat: remove sausage, 
