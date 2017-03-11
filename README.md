@@ -74,13 +74,7 @@ Payment Type: member reward points
 Store Id: 586
 ```
 
-2. Great job so far, however the client has determined that processing one order at a time is too slow and need to speed up proccessing time. Your new task is to condense the orders into a single object. Create a new variable called currentOrders that will be equal to one object containing all the current orders.  **Hint:** Nesting might be your best friend.
-
-
-3. Alright were so close but now we just got some last second changes that need to be applied to the current orders. Apply the changes below to the currentOrders object.  **Hint:** Think of you can access/change values of an object.
-
-  - **order11821 changes:**  
-    **Pizza Sauce:** classic marinara, **Veggies:** add banana peppers, **Meat:** remove sausage, **Cheese:** feta
+2. lksdfjlksjfsjd
 
 Call the function printInformation as many times as you can before time runs out!
 
