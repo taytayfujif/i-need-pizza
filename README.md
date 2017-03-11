@@ -10,11 +10,11 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 #Requirements
 
-I. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint:** Remember objects can accept many different data types as its value. 
-  
+I. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint:** Remember objects can accept many different data types as its value.
+
 #### order11821
 ```
-Customer Name: James Franko                                                         
+Customer Name: James Franko
 Address: 2155 E Lake Dr
 City: Seattle
 State: WA
@@ -35,14 +35,14 @@ Store Id: 112
 
 ####order11372
 ```
-Customer Name: Justin Bieber                                                        
+Customer Name: Justin Bieber
 Address: 1801 W Rodeo Dr
 City: Beverly Hills
 State: CA
 Zip Code: 91833
 Pizza:
   Crust: stuffed crust
-  Pizza Sauce: creamy garlic alfredo  
+  Pizza Sauce: creamy garlic alfredo
   Cheese: double
   Toppings:
     Veggies: onion, anchovies, mushrooms
