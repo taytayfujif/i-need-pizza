@@ -16,6 +16,7 @@ You will be using your coding knowledge to transform these orders into javascrip
   
   |order11821|
   |----------|
+  | Customer Name | | James Franko |
 
   - **[order11372:** **Customer Name:** Justin Bieber, **Address:** 1801 W Rodeo Dr **City:** Beverly Hills, **State:** CA, **Zip Code:** 91833, **Pizza:** **crust:** stuffed crust, **Pizza Sauce** creamy garlic alfredo, **Cheese:** double, **Toppings:** **Veggies:** onion, anchovies, mushrooms, **Meat:** chicken, bacon, **Sides:** double fudge brownie dessert, **Sauces:** bbq, garlic sauce, **Special Instructions:** please call 815 at the gate, **Payment Type:** credit card, Store Id: 382]
 
