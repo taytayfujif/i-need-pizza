@@ -75,10 +75,10 @@ Store Id: 586
 ```
 
 
-3. Create an object prototype for three types of robots and pass information, to make them the best robots ever, as the parameters.
+2. Create an object prototype for three types of robots and pass information, to make them the best robots ever, as the parameters.
     + `var strongestRobot = new BestRobotEver(1, "Super Strong!", 100000000, "Can cut cake with a karate kick!", 100000, "I AM AWESOME");`
 
-4. Create a function called **printInformation**, set the parameter as the created robot variable, and return the information of the robot.
+3. Create a function called **printInformation**, set the parameter as the created robot variable, and return the information of the robot.
 
 Resources
 
