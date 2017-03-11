@@ -63,7 +63,12 @@ III. Almost done, but we just received some last seconds changes to our orders. 
 Pizza Sauce: classic marinara
 add spinach
 remove sausage
+add a new key called "orderTime", assign it a value of "20 minutes"
 ```
+### Stretch Goals
+- figure out how to iterate over an objects keys and values, test this on the objects you have already created
+
 Resources
 
 Objects - https://www.w3schools.com/js/js_objects.asp
+Object Properties - https://www.w3schools.com/js/js_properties.asp
