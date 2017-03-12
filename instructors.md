@@ -16,13 +16,15 @@ At the completion of this exercise, students should understand:
 - Javascript objects
 - Nested objects
 - Accessing/Modifying data within nested objects through dot notation and bracket notation
+- Adding new key/value pairs to an object
 
 ###Your Challenge
 Steps to create the project
 - Fork and clone project
 - All work will be done in pizza.js
-- Refer to the completed pizza.js file for desired outcome for students
+- Refer to the completed pizza.js file for desired code structure for students
 
 ###Resources
 List of resources where students can research on their own.
-Objects - https://www.w3schools.com/js/js_objects.asp
+- Objects - https://www.w3schools.com/js/js_objects.asp
+- Object Properties - https://www.w3schools.com/js/js_properties.asp
