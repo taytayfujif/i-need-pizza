@@ -91,6 +91,13 @@ let currentOrders = {
 currentOrders.order11821.Pizza["Pizza Sauce"] = "classic marinara";
 currentOrders.order11821.Pizza["Toppings"].Veggies = ["onion", "anchovies", "mushrooms", "Spinach"];
 currentOrders.order11821.Pizza["Toppings"].Meat = ["pepperoni", "ham"];
+currentOrders.order11821.orderTime = "20 minutes";
 
+//Iteration examples
+for(var key in order11372) {
+  let objData = key + ':' + order11372[key];
+}
 
-
+Object.keys(order11372).forEach(function (prop) {
+  let objData = prop + ":" + order11372[prop];
+});
