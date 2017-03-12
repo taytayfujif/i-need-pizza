@@ -2,7 +2,7 @@
 
 #Story
 
-A major pizzeria's ordering system has just went down and are in need of some immediate help. Their system only accepts orders in the form of javascript objects. They have asked us to fix their orders manually until they can get their system back up and running. Lets use our rock star knowledge to help them get their orders proccessed quickly.
+A major pizzeria's ordering system has just went down and are in need of some immediate help. Their system only accepts orders in the form of javascript objects. They have asked us to fix their orders manually until they can get their system back up and running. Lets help them get their orders proccessed quickly.
 
 #Your Mission
 
@@ -10,7 +10,7 @@ You will be using your coding knowledge to transform these orders into javascrip
 
 #Requirements
 
-I. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint:** Remember objects can accept many different data types as its value.
+I. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint**: Look at the structure of the code blocks below.
 
 #### order11821
 ```
@@ -63,7 +63,12 @@ III. Almost done, but we just received some last seconds changes to our orders. 
 Pizza Sauce: classic marinara
 add spinach
 remove sausage
+add a new key called "orderTime", assign it a value of "20 minutes"
 ```
+### Stretch Goals
+- figure out how to iterate over an objects keys and values, test this on the objects you have already created
+
 Resources
 
-Objects - https://www.w3schools.com/js/js_objects.asp
+- Objects - https://www.w3schools.com/js/js_objects.asp
+- Object Properties - https://www.w3schools.com/js/js_properties.asp

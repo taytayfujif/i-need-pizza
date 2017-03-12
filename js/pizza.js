@@ -1,7 +1,7 @@
 /*
-* Create a variable for each order that corresponds with its order number.
+* Create a variable for each order with the order number as the name of the variable.
 * Create an object for each order based on the specs in the ReadMe
-* Each object will have two nested objects (pizza & toppings)
+* Each object will have two nested objects ex.(pizza & toppings)
 * Keys with more than one value should be an array of strings ex. Veggies
 */
 
