@@ -8,9 +8,9 @@ A major pizzeria's ordering system has just went down and are in need of some im
 
 You will be using your coding knowledge to transform these orders into javascript objects and make changes to them on the fly.
 
-### Requirements
+### Your Challenge
 
-Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint**: Look at the structure of the code blocks below.
+1. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint**: Look at the structure of the code blocks below.
 
 #### order11821
 ```
@@ -54,9 +54,9 @@ Payment Type: credit card
 Store Id: 382
 ```
 
-II. Great job so far, however the client has told us processing one order at a time is too slow. They have asked us to figure out how to speed this process up. Your next task is to condense all current orders into one object. Create a new variable called currentOrders that will contain all of the orders. **Hint:** What are nested objects?
+2. Great job so far, however the client has told us processing one order at a time is too slow. They have asked us to figure out how to speed this process up. Your next task is to condense all current orders into one object. Create a new variable called currentOrders that will contain all of the orders. **Hint:** What are nested objects?
 
-III. Almost done, but we just received some last seconds changes to our orders. Make the changes below to the currentOrders object so the customer gets the right order. **Hint:** How can you access/change data in an object
+3. Almost done, but we just received some last seconds changes to our orders. Make the changes below to the currentOrders object so the customer gets the right order. **Hint:** How can you access/change data in an object
 
 #### Changes to order 11821
 ```
@@ -66,7 +66,7 @@ remove sausage
 add a new key called "orderTime", assign it a value of "20 minutes"
 ```
 ### Stretch Goals
-- figure out how to iterate over an objects keys and values, test this on the objects you have already created
+- Figure out how to iterate over an objects keys and values, test this on the objects you have already created
 
 Resources
 
