@@ -1,14 +1,14 @@
 # I-Need-Pizza
 
-#Story
+### Story
 
 A major pizzeria's ordering system has just went down and are in need of some immediate help. Their system only accepts orders in the form of javascript objects. They have asked us to fix their orders manually until they can get their system back up and running. Lets help them get their orders proccessed quickly.
 
-#Your Mission
+### Your Mission
 
 You will be using your coding knowledge to transform these orders into javascript objects and make changes to them on the fly.
 
-#Requirements
+### Requirements
 
 I. Below are the orders that need to be fixed. Declare a variable for each order that corresponds with its order number so we don't get them confused. All information about the pizza should be grouped together within the object. **Hint**: Look at the structure of the code blocks below.
 
@@ -33,7 +33,7 @@ Payment Type: cash
 Store Id: 112
 ```
 
-####order11372
+#### order11372
 ```
 Customer Name: Justin Bieber
 Address: 1801 W Rodeo Dr
